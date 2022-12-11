@@ -4,6 +4,8 @@ Welcome to the spectral vocoder repository!
 
 This repository contains a research file that explores the use of a spectral vocoder to manipulate audio signals. A spectral vocoder is a type of algorithm that can analyze and modify the spectrum of an audio signal, effectively allowing the user transfer less data over the transmission channel.
 
+<img src="docs/spectrum.png" width="512" alt="spectrum bands">
+
 
 ## Run
 
